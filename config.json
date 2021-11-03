@@ -1,9 +1,9 @@
 {
- "ip": "Your_minecraft_server_ip_here",
- "port": "Your_server_port_here",
- "name": "Your_bot_name_here",
+ "ip": "junglewar3.aternos.me",
+ "port": "27296",
+ "name": "Jungle War Bot",
  "auto-night-skip": "false",
- "token": "Your_discord_bot_token_here",
+ "token": "OTA1NTg5ODI4MTg2NDA2OTUy.YYMSQA.Y7Vdg9Z2gJe73eQV2L6sPK4F9b4",
  "channelid": "Your_discord_server_channel_id_here",
  "loginmsg": "Your_Login_message_here"
 }
